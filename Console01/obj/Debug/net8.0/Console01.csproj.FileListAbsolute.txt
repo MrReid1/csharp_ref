@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\csharp_ref\Console01\bin\Debug\net8.0\Console01.exe
+C:\Users\anast\source\repos\csharp_ref\Console01\bin\Debug\net8.0\Console01.deps.json
+C:\Users\anast\source\repos\csharp_ref\Console01\bin\Debug\net8.0\Console01.runtimeconfig.json
+C:\Users\anast\source\repos\csharp_ref\Console01\bin\Debug\net8.0\Console01.dll
+C:\Users\anast\source\repos\csharp_ref\Console01\bin\Debug\net8.0\Console01.pdb
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.AssemblyInfo.cs
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.dll
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\refint\Console01.dll
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.pdb
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\Console01.genruntimeconfig.cache
+C:\Users\anast\source\repos\csharp_ref\Console01\obj\Debug\net8.0\ref\Console01.dll
